@@ -53,3 +53,5 @@ community → [discord.gg/tynq](https://discord.gg/tynq)
 Apache-2.0 © 2025 [tynq.dev](https://tynq.dev)
 
 # PR Merge: 2025-10-17 - enhancement/merge-8202
+
+# PR Merge: 2025-10-17 - refactor/merge-4501
